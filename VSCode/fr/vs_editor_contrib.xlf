@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="src/vs/editor/contrib/caretOperations/transpose" source-language="en" datatype="plaintext" target-language="fr">
     <body>
-      <trans-unit id="transposeLetters.label">
+      <trans-unit id="transposeLetters.label" approved="yes">
         <source xml:lang="en">Transpose Letters</source>
-        <target xml:lang="fr" state="needs-translation">Transpose Letters</target>
+        <target xml:lang="fr" state="final">Trans1-CrowdIn-LynneD</target>
       </trans-unit>
     </body>
   </file>
@@ -12,7 +12,7 @@
     <body>
       <trans-unit id="caret.moveLeft">
         <source xml:lang="en">Move Caret Left</source>
-        <target xml:lang="fr" state="needs-translation">Move Caret Left</target>
+        <target xml:lang="fr" state="translated">Trans2-CrowdIn-LynneD</target>
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
