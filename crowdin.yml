@@ -1,0 +1,3 @@
+files:
+  - source: /VSCode/en
+    translation: /VSCode/%two_letters_code%/%original_file_name%
