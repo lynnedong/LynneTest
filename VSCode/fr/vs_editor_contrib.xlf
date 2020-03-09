@@ -25,9 +25,9 @@
   </file>
   <file original="src/vs/editor/contrib/cursorUndo/cursorUndo" source-language="en" datatype="plaintext" target-language="fr">
     <body>
-      <trans-unit id="cursor.undo">
+      <trans-unit id="cursor.undo" approved="yes">
         <source xml:lang="en">Cursor Undo</source>
-        <target xml:lang="fr" state="needs-translation">Cursor Undo</target>
+        <target xml:lang="fr" state="final">Trans4-github-lynneMSo</target>
       </trans-unit>
       <trans-unit id="cursor.redo">
         <source xml:lang="en">Cursor Redo</source>
