@@ -13,10 +13,13 @@
       <trans-unit id="caret.moveLeft" approved="yes">
         <source xml:lang="en">Move Caret Left</source>
         <target xml:lang="fr" state="final">Trans2-CrowdIn-LynneD-Github-LynnedongMS</target>
+        <alt-trans>
+          <target xml:lang="fr">Trans2-CrowdIn-LynneD</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="fr" state="needs-translation">Move Caret Right</target>
+        <target xml:lang="fr" state="translated">Trans3-LynneD-Crowdin-Translated</target>
       </trans-unit>
     </body>
   </file>
