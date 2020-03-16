@@ -41,7 +41,7 @@
       <trans-unit id="miToggleLineComment">
         <source xml:lang="en">&amp;&amp;Toggle Line Comment</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">&amp;&amp;Toggle Line Comment</target>
+        <target xml:lang="fr" state="translated">&amp;&amp;Activer/désactiver le commentaire de ligne-LynneD</target>
       </trans-unit>
       <trans-unit id="comment.line.add">
         <source xml:lang="en">Add Line Comment</source>
