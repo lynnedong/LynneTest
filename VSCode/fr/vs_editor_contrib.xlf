@@ -10,9 +10,9 @@
   </file>
   <file original="src/vs/editor/contrib/caretOperations/caretOperations" source-language="en" datatype="plaintext" target-language="fr">
     <body>
-      <trans-unit id="caret.moveLeft">
+      <trans-unit id="caret.moveLeft" approved="yes">
         <source xml:lang="en">Move Caret Left</source>
-        <target xml:lang="fr" state="translated">Trans2-CrowdIn-LynneD</target>
+        <target xml:lang="fr" state="final">Trans2-CrowdIn-LynneD</target>
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
@@ -26,17 +26,17 @@
         <source xml:lang="en">Cursor Undo</source>
         <target xml:lang="fr" state="final">Trans4-github-lynneMSo</target>
       </trans-unit>
-      <trans-unit id="cursor.redo">
+      <trans-unit id="cursor.redo" approved="yes">
         <source xml:lang="en">Cursor Redo</source>
-        <target xml:lang="fr" state="needs-translation">Cursor Redo</target>
+        <target xml:lang="fr" state="final">cursor redo-lynned</target>
       </trans-unit>
     </body>
   </file>
   <file original="src/vs/editor/contrib/comment/comment" source-language="en" datatype="plaintext" target-language="fr">
     <body>
-      <trans-unit id="comment.line">
+      <trans-unit id="comment.line" approved="yes">
         <source xml:lang="en">Toggle Line Comment</source>
-        <target xml:lang="fr" state="needs-translation">Toggle Line Comment</target>
+        <target xml:lang="fr" state="final">Activer/désactiver le commentaire de ligne-LynneD</target>
       </trans-unit>
       <trans-unit id="miToggleLineComment">
         <source xml:lang="en">&amp;&amp;Toggle Line Comment</source>
