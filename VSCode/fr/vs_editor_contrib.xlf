@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="caret.moveRight">
         <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="fr" state="final">Trans3-LynneD-Crowdin-Translated</target>
+        <target xml:lang="fr" state="translated">Trans3-LynneD-Crowdin-Translated</target>
       </trans-unit>
     </body>
   </file>
