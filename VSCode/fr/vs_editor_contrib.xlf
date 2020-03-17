@@ -12,11 +12,14 @@
     <body>
       <trans-unit id="caret.moveLeft" approved="yes">
         <source xml:lang="en">Move Caret Left</source>
-        <target xml:lang="fr" state="final">Trans2-CrowdIn-LynneD</target>
+        <target xml:lang="fr" state="final">Trans2-CrowdIn-LynneD-Github-LynnedongMS</target>
+        <alt-trans>
+          <target xml:lang="fr">Trans2-CrowdIn-LynneD</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="caret.moveRight">
+      <trans-unit id="caret.moveRight" approved="yes">
         <source xml:lang="en">Move Caret Right</source>
-        <target xml:lang="fr" state="translated">Trans3-LynneD-Crowdin-Translated</target>
+        <target xml:lang="fr" state="final">Trans3-LynneD-Crowdin-Translated</target>
       </trans-unit>
     </body>
   </file>
@@ -25,6 +28,9 @@
       <trans-unit id="cursor.undo" approved="yes">
         <source xml:lang="en">Cursor Undo</source>
         <target xml:lang="fr" state="final">Trans4-github-lynneMSo</target>
+        <alt-trans>
+          <target xml:lang="fr">Trans4-github-lynneHotmail.com</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="cursor.redo" approved="yes">
         <source xml:lang="en">Cursor Redo</source>
@@ -45,7 +51,10 @@
       </trans-unit>
       <trans-unit id="comment.line.add">
         <source xml:lang="en">Add Line Comment</source>
-        <target xml:lang="fr" state="needs-translation">Add Line Comment</target>
+        <target xml:lang="fr" state="translated">Translation-LynneMS</target>
+        <alt-trans>
+          <target xml:lang="fr">Translation-LynneD</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="comment.line.remove">
         <source xml:lang="en">Remove Line Comment</source>
