@@ -58,16 +58,16 @@
       </trans-unit>
       <trans-unit id="comment.line.remove">
         <source xml:lang="en">Remove Line Comment</source>
-        <target xml:lang="fr" state="needs-translation">Remove Line Comment</target>
+        <target xml:lang="fr" state="translated">Supprimer le commentaire de ligne</target>
       </trans-unit>
       <trans-unit id="comment.block">
         <source xml:lang="en">Toggle Block Comment</source>
-        <target xml:lang="fr" state="needs-translation">Toggle Block Comment</target>
+        <target xml:lang="fr" state="translated">Activer/désactiver le commentaire du bloc</target>
       </trans-unit>
       <trans-unit id="miToggleBlockComment">
         <source xml:lang="en">Toggle &amp;&amp;Block Comment</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">Toggle &amp;&amp;Block Comment</target>
+        <target xml:lang="fr" state="translated">Basculer &amp;&amp;Bloquer les commentaires</target>
       </trans-unit>
     </body>
   </file>
@@ -75,7 +75,7 @@
     <body>
       <trans-unit id="forceRetokenize">
         <source xml:lang="en">Developer: Force Retokenize</source>
-        <target xml:lang="fr" state="needs-translation">Developer: Force Retokenize</target>
+        <target xml:lang="fr" state="translated">Développeur : Force Retokenize</target>
       </trans-unit>
     </body>
   </file>
@@ -83,15 +83,15 @@
     <body>
       <trans-unit id="EditorFontZoomIn.label">
         <source xml:lang="en">Editor Font Zoom In</source>
-        <target xml:lang="fr" state="needs-translation">Editor Font Zoom In</target>
+        <target xml:lang="fr" state="translated">Zoom avant de la fonte de l'éditeur</target>
       </trans-unit>
       <trans-unit id="EditorFontZoomOut.label">
         <source xml:lang="en">Editor Font Zoom Out</source>
-        <target xml:lang="fr" state="needs-translation">Editor Font Zoom Out</target>
+        <target xml:lang="fr" state="translated">Zoom arrière de la police de l'éditeur</target>
       </trans-unit>
       <trans-unit id="EditorFontZoomReset.label">
         <source xml:lang="en">Editor Font Zoom Reset</source>
-        <target xml:lang="fr" state="needs-translation">Editor Font Zoom Reset</target>
+        <target xml:lang="fr" state="translated">Réinitialisation du zoom de la police de l'éditeur</target>
       </trans-unit>
     </body>
   </file>
@@ -99,7 +99,7 @@
     <body>
       <trans-unit id="parameterHints.trigger.label">
         <source xml:lang="en">Trigger Parameter Hints</source>
-        <target xml:lang="fr" state="needs-translation">Trigger Parameter Hints</target>
+        <target xml:lang="fr" state="translated">Indications du paramètre de déclenchement</target>
       </trans-unit>
     </body>
   </file>
@@ -108,15 +108,15 @@
       <trans-unit id="toggle.tabMovesFocus">
         <source xml:lang="en">Toggle Tab Key Moves Focus</source>
         <note>Turn on/off use of tab key for moving focus around VS Code</note>
-        <target xml:lang="fr" state="needs-translation">Toggle Tab Key Moves Focus</target>
+        <target xml:lang="fr" state="translated">Activer/désactiver les raccourcis clavier d'onglet</target>
       </trans-unit>
       <trans-unit id="toggle.tabMovesFocus.on">
         <source xml:lang="en">Pressing Tab will now move focus to the next focusable element</source>
-        <target xml:lang="fr" state="needs-translation">Pressing Tab will now move focus to the next focusable element</target>
+        <target xml:lang="fr" state="translated">Appuyer sur l'onglet déplacera maintenant le focus vers l'élément ciblable suivant</target>
       </trans-unit>
       <trans-unit id="toggle.tabMovesFocus.off">
         <source xml:lang="en">Pressing Tab will now insert the tab character</source>
-        <target xml:lang="fr" state="needs-translation">Pressing Tab will now insert the tab character</target>
+        <target xml:lang="fr" state="translated">Appuyer sur Onglet va maintenant insérer le caractère Onglet</target>
       </trans-unit>
     </body>
   </file>
@@ -124,20 +124,20 @@
     <body>
       <trans-unit id="overviewRulerBracketMatchForeground">
         <source xml:lang="en">Overview ruler marker color for matching brackets.</source>
-        <target xml:lang="fr" state="needs-translation">Overview ruler marker color for matching brackets.</target>
+        <target xml:lang="fr" state="translated">Aperçu de la couleur du marqueur de la règle pour les accolades correspondantes.</target>
       </trans-unit>
       <trans-unit id="smartSelect.jumpBracket">
         <source xml:lang="en">Go to Bracket</source>
-        <target xml:lang="fr" state="needs-translation">Go to Bracket</target>
+        <target xml:lang="fr" state="translated">Aller à la parenthèse</target>
       </trans-unit>
       <trans-unit id="smartSelect.selectToBracket">
         <source xml:lang="en">Select to Bracket</source>
-        <target xml:lang="fr" state="needs-translation">Select to Bracket</target>
+        <target xml:lang="fr" state="translated">Sélectionner pour la parenthèse</target>
       </trans-unit>
       <trans-unit id="miGoToBracket">
         <source xml:lang="en">Go to &amp;&amp;Bracket</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">Go to &amp;&amp;Bracket</target>
+        <target xml:lang="fr" state="translated">Aller à &amp;&amp;Pile</target>
       </trans-unit>
     </body>
   </file>
@@ -145,34 +145,34 @@
     <body>
       <trans-unit id="actions.clipboard.cutLabel">
         <source xml:lang="en">Cut</source>
-        <target xml:lang="fr" state="needs-translation">Cut</target>
+        <target xml:lang="fr" state="translated">Couper</target>
       </trans-unit>
       <trans-unit id="miCut">
         <source xml:lang="en">Cu&amp;&amp;t</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">Cu&amp;&amp;t</target>
+        <target xml:lang="fr" state="translated">Cu&amp;&amp;t</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.copyLabel">
         <source xml:lang="en">Copy</source>
-        <target xml:lang="fr" state="needs-translation">Copy</target>
+        <target xml:lang="fr" state="translated">Copie</target>
       </trans-unit>
       <trans-unit id="miCopy">
         <source xml:lang="en">&amp;&amp;Copy</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">&amp;&amp;Copy</target>
+        <target xml:lang="fr" state="translated">&amp;&amp;Copier</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.pasteLabel">
         <source xml:lang="en">Paste</source>
-        <target xml:lang="fr" state="needs-translation">Paste</target>
+        <target xml:lang="fr" state="translated">Coller</target>
       </trans-unit>
       <trans-unit id="miPaste">
         <source xml:lang="en">&amp;&amp;Paste</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">&amp;&amp;Paste</target>
+        <target xml:lang="fr" state="translated">&amp;&amp;Coller</target>
       </trans-unit>
       <trans-unit id="actions.clipboard.copyWithSyntaxHighlightingLabel">
         <source xml:lang="en">Copy With Syntax Highlighting</source>
-        <target xml:lang="fr" state="needs-translation">Copy With Syntax Highlighting</target>
+        <target xml:lang="fr" state="translated">Copier avec la coloration syntaxique</target>
       </trans-unit>
     </body>
   </file>
@@ -180,7 +180,7 @@
     <body>
       <trans-unit id="action.showContextMenu.label">
         <source xml:lang="en">Show Editor Context Menu</source>
-        <target xml:lang="fr" state="needs-translation">Show Editor Context Menu</target>
+        <target xml:lang="fr" state="translated">Afficher le menu contextuel de l'éditeur</target>
       </trans-unit>
     </body>
   </file>
@@ -188,11 +188,11 @@
     <body>
       <trans-unit id="formatDocument.label">
         <source xml:lang="en">Format Document</source>
-        <target xml:lang="fr" state="needs-translation">Format Document</target>
+        <target xml:lang="fr" state="translated">Formater le document</target>
       </trans-unit>
       <trans-unit id="formatSelection.label">
         <source xml:lang="en">Format Selection</source>
-        <target xml:lang="fr" state="needs-translation">Format Selection</target>
+        <target xml:lang="fr" state="translated">Sélection du format</target>
       </trans-unit>
     </body>
   </file>
@@ -200,11 +200,11 @@
     <body>
       <trans-unit id="InPlaceReplaceAction.previous.label">
         <source xml:lang="en">Replace with Previous Value</source>
-        <target xml:lang="fr" state="needs-translation">Replace with Previous Value</target>
+        <target xml:lang="fr" state="translated">Remplacer par la valeur précédente</target>
       </trans-unit>
       <trans-unit id="InPlaceReplaceAction.next.label">
         <source xml:lang="en">Replace with Next Value</source>
-        <target xml:lang="fr" state="needs-translation">Replace with Next Value</target>
+        <target xml:lang="fr" state="translated">Remplacer par la valeur suivante</target>
       </trans-unit>
     </body>
   </file>
@@ -214,13 +214,13 @@
         <source xml:lang="en">Show Hover</source>
         <note>Label for action that will trigger the showing of a hover in the editor.
 This allows for users to show the hover without using the mouse.</note>
-        <target xml:lang="fr" state="needs-translation">Show Hover</target>
+        <target xml:lang="fr" state="translated">Show Hover</target>
       </trans-unit>
       <trans-unit id="showDefinitionPreviewHover">
         <source xml:lang="en">Show Definition Preview Hover</source>
         <note>Label for action that will trigger the showing of definition preview hover in the editor.
 This allows for users to show the definition preview hover without using the mouse.</note>
-        <target xml:lang="fr" state="needs-translation">Show Definition Preview Hover</target>
+        <target xml:lang="fr" state="translated">Afficher l'aperçu de la définition en survolant</target>
       </trans-unit>
     </body>
   </file>
@@ -228,35 +228,35 @@ This allows for users to show the definition preview hover without using the mou
     <body>
       <trans-unit id="no result">
         <source xml:lang="en">No result.</source>
-        <target xml:lang="fr" state="needs-translation">No result.</target>
+        <target xml:lang="fr" state="translated">Aucun résultat.</target>
       </trans-unit>
       <trans-unit id="resolveRenameLocationFailed">
         <source xml:lang="en">An unknown error occurred while resolving rename location</source>
-        <target xml:lang="fr" state="needs-translation">An unknown error occurred while resolving rename location</target>
+        <target xml:lang="fr" state="translated">Une erreur inconnue s'est produite lors de la résolution de l'emplacement du renommage</target>
       </trans-unit>
       <trans-unit id="label_Duplicated1">
         <source xml:lang="en">Renaming '{0}'</source>
-        <target xml:lang="fr" state="needs-translation">Renaming '{0}'</target>
+        <target xml:lang="fr" state="translated">Renommage de '{0}'</target>
       </trans-unit>
       <trans-unit id="aria">
         <source xml:lang="en">Successfully renamed '{0}' to '{1}'. Summary: {2}</source>
-        <target xml:lang="fr" state="needs-translation">Successfully renamed '{0}' to '{1}'. Summary: {2}</target>
+        <target xml:lang="fr" state="translated">Renommé avec succès '{0}' en '{1}'. Résumé: {2}</target>
       </trans-unit>
       <trans-unit id="rename.failedApply">
         <source xml:lang="en">Rename failed to apply edits</source>
-        <target xml:lang="fr" state="needs-translation">Rename failed to apply edits</target>
+        <target xml:lang="fr" state="translated">Échec du renommage des modifications</target>
       </trans-unit>
       <trans-unit id="rename.failed">
         <source xml:lang="en">Rename failed to compute edits</source>
-        <target xml:lang="fr" state="needs-translation">Rename failed to compute edits</target>
+        <target xml:lang="fr" state="translated">Le renommage a échoué lors du calcul des modifications</target>
       </trans-unit>
       <trans-unit id="rename.label">
         <source xml:lang="en">Rename Symbol</source>
-        <target xml:lang="fr" state="needs-translation">Rename Symbol</target>
+        <target xml:lang="fr" state="translated">Renommer le symbole</target>
       </trans-unit>
       <trans-unit id="enablePreview">
         <source xml:lang="en">Enable/disable the ability to preview changes before renaming</source>
-        <target xml:lang="fr" state="needs-translation">Enable/disable the ability to preview changes before renaming</target>
+        <target xml:lang="fr" state="translated">Activer/désactiver la possibilité de prévisualiser les modifications avant de renommer</target>
       </trans-unit>
     </body>
   </file>
@@ -264,21 +264,21 @@ This allows for users to show the definition preview hover without using the mou
     <body>
       <trans-unit id="smartSelect.expand">
         <source xml:lang="en">Expand Selection</source>
-        <target xml:lang="fr" state="needs-translation">Expand Selection</target>
+        <target xml:lang="fr" state="translated">Développer la sélection</target>
       </trans-unit>
       <trans-unit id="miSmartSelectGrow">
         <source xml:lang="en">&amp;&amp;Expand Selection</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">&amp;&amp;Expand Selection</target>
+        <target xml:lang="fr" state="translated">&amp;&amp;Développer la sélection</target>
       </trans-unit>
       <trans-unit id="smartSelect.shrink">
         <source xml:lang="en">Shrink Selection</source>
-        <target xml:lang="fr" state="needs-translation">Shrink Selection</target>
+        <target xml:lang="fr" state="translated">Réduire la sélection</target>
       </trans-unit>
       <trans-unit id="miSmartSelectShrink">
         <source xml:lang="en">&amp;&amp;Shrink Selection</source>
         <note>&amp;&amp; denotes a mnemonic</note>
-        <target xml:lang="fr" state="needs-translation">&amp;&amp;Shrink Selection</target>
+        <target xml:lang="fr" state="translated">&amp;&amp;Réduire la sélection</target>
       </trans-unit>
     </body>
   </file>
@@ -286,7 +286,7 @@ This allows for users to show the definition preview hover without using the mou
     <body>
       <trans-unit id="multipleResults">
         <source xml:lang="en">Click to show {0} definitions.</source>
-        <target xml:lang="fr" state="needs-translation">Click to show {0} definitions.</target>
+        <target xml:lang="fr" state="translated">Cliquez pour afficher les définitions de {0}.</target>
       </trans-unit>
     </body>
   </file>
